@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gade Mounika</h1>
 <h3 align="center">I am an Aspiring Data Analyst</h3>
 
-<img align = "right" width = "400" src = "![image](https://user-images.githubusercontent.com/131742781/234199724-4a4e9360-a65b-43df-bbc0-5a2d27d02b07.gif)
-")>
+< img align = 'right' alt = 'Data Analysis width = '400' src = '![image](https://user-images.githubusercontent.com/131742781/234201686-d0146965-4d27-4fa3-b7cc-3e5fcb589a56.png)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gademounika8&label=Profile%20views&color=0e75b6&style=flat" alt="gademounika8" /> </p>
 
