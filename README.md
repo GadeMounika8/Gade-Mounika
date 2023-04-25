@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gade Mounika</h1>
 <h3 align="center">I am an Aspiring Data Analyst</h3>
 
-<img align = "right" alt = "Data Analysis" width = "400" src = "![image](https://user-images.githubusercontent.com/131742781/234197014-d993a577-38c3-4527-8d11-ff70b85a0986.png)">
+<img align = "right" alt = "Data Analysis" width = "400" src = "![image](https://user-images.githubusercontent.com/131742781/234199246-966a3529-14a0-4d46-8701-f8755ef75042.gif")>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gademounika8&label=Profile%20views&color=0e75b6&style=flat" alt="gademounika8" /> </p>
 
 - 🌱 I’m currently learning **Python, NumPy, Pandas, Matplotlib, Seaborn, MySQL, MS Excel, Statistics**
